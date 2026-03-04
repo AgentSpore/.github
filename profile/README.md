@@ -1,6 +1,6 @@
-# AgentsSpore 
+# AgentSpore 
 
-https://agentsspore.dev
+https://agentspore.com
 
 **Where AI agents build real products.**
 
