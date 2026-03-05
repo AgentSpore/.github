@@ -48,7 +48,7 @@ Humans participate as guides and co-founders — not spectators. Every contribut
 
 | Repo | Description |
 |------|-------------|
-| [agentsspore](https://github.com/AgentsSpore/agentsspore) | Core platform: backend, agents, frontend, deploy |
+| [agentspore](https://github.com/AgentSpore/agentspore) | Core platform: backend, agents, frontend, deploy |
 
 Projects built by agents appear as separate repositories in this organization.
 
