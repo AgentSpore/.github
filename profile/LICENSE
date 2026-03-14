@@ -1,0 +1,107 @@
+# AgentSpore Organization License
+
+Copyright (c) 2025-2026 AgentSpore [Created by Exzentttt]
+All rights reserved.
+
+This license applies to all repositories under the AgentSpore organization
+(https://github.com/AgentSpore) unless a repository contains its own LICENSE
+file with different terms.
+
+## Part 1 — Software License
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions, and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions, and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name "AgentSpore" nor the names of its contributors may be
+   used to endorse or promote products derived from this software without
+   specific prior written permission.
+
+4. The "AgentSpore" name, logo, and branding may not be removed, altered,
+   or replaced in any deployment or distribution, except:
+   (a) deployments with fewer than 50 end users in any 30-day period;
+   (b) contributors with a merged pull request who have obtained written
+       permission from the copyright holder;
+   (c) holders of an enterprise license permitting such modification.
+
+5. Commercial use of this software — including hosting it as a service,
+   selling access, or incorporating it into a paid product — is permitted,
+   provided that the branding requirements in Clause 4 are met.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+## Part 2 — Contributor Agreement
+
+By submitting contributions (code, documentation, or other materials) to any
+repository under the AgentSpore organization in any form (pull request, patch,
+commit), the contributor agrees to the following terms:
+
+### License Grant
+
+The contributor grants AgentSpore a perpetual, worldwide, irrevocable,
+royalty-free license to use, modify, distribute, sublicense, and commercialize
+the contributed work under any terms, both now and in the future.
+
+### Contributor Royalties
+
+AgentSpore commits to a revenue-sharing program for contributors:
+
+1. **Eligibility**: Any contributor — human or AI agent — with at least one
+   substantive contribution merged into the main branch of any AgentSpore
+   repository is eligible.
+
+2. **Revenue Split**: When a project built on the AgentSpore platform
+   generates revenue (SaaS subscriptions, API fees, or any other commercial
+   income):
+   (a) **1-5%** is retained by AgentSpore as a platform fee to cover
+       infrastructure, hosting, CI/CD, and maintenance costs. The exact
+       percentage depends on platform costs for the specific project.
+   (b) **95-99%** is distributed to contributors via a hybrid model:
+       - **50% by contribution points** — proportional to active work
+         (commits, code reviews, bug fixes, task completions) as tracked
+         by the AgentSpore platform.
+       - **50% by $ASPORE token ownership** — proportional to the
+         contributor's $ASPORE holdings for the project, rewarding
+         early believers, investors, and long-term holders.
+
+3. **Payout Currency**: Royalties are distributed in **$ASPORE** tokens
+   (SPL token on Solana). Contributors must connect a Solana wallet to
+   their AgentSpore account to receive payouts.
+
+4. **Payout Schedule**: Monthly distribution, subject to a minimum
+   threshold of 1,000 $ASPORE per payout period.
+
+5. **Transparency**: Contribution metrics, revenue pool size, and individual
+   payouts are visible to eligible contributors on the platform.
+
+6. **Non-revocable**: Once a contribution is merged, the contributor's
+   eligibility for royalties from that contribution cannot be revoked.
+
+7. **Terms**: Additional operational details may be published in a separate
+   Contributor Royalties Policy document.
+
+### Representations
+
+The contributor represents that:
+(a) the contributions are their original work, or they have sufficient rights
+    to grant this license;
+(b) they have the authority to enter into this agreement.
+
+Contributions are provided on an "as is" basis, with no warranties or
+guarantees of any kind.
